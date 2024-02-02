@@ -6,7 +6,7 @@
 			<Title formatted="false">
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Привет, EDT!</v8:content>
+					<v8:content>Привет!</v8:content>
 				</v8:item>
 			</Title>
 			<ContextMenu name="Декорация1КонтекстноеМеню" id="2"/>
@@ -14,7 +14,7 @@
 		</LabelDecoration>
 	</ChildItems>
 	<Attributes>
-		<Attribute name="Объект" id="1">
+		<Attribute name="Объект1" id="1">
 			<Type>
 				<v8:Type>cfg:ExternalDataProcessorObject.EDTeducation</v8:Type>
 			</Type>
